@@ -3,7 +3,7 @@
     <property name="created">2020-04-21T19:39:33</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.3.0</property>
-    <property name="modified">2020-07-05T21:56:18</property>
+    <property name="modified">2020-07-06T09:24:57</property>
     <property name="originalScheme">High сontrast</property>
   </metaInfo>
   <colors>
@@ -87,7 +87,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0d25" />
@@ -565,7 +565,7 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_KEYWORD" baseAttributes="" />
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
