@@ -1,0 +1,11 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/layout/banner_ad.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/layout_alert.xml" value="0.14114583333333333" />
+      </map>
+    </option>
+  </component>
+</application>
